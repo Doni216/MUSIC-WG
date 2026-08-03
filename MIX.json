@@ -3215,6 +3215,30 @@
             "ImageId": "rbxassetid://83025559864449",
             "SoundId": "rbxassetid://116839226886869",
             "Speed": 0.43
-        }
+        },
+        {
+    "Title": "DJ Bila Kau Tak Disampingku (Lyric Video)",
+    "Artist": "DJ DEPAN",
+    "Genre": "DJ DEPAN",
+    "ImageId": "rbxassetid://83025559864449",
+    "SoundId": "rbxassetid://129467378411490",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ Kita (Official Audio)",
+    "Artist": "DJ DEPAN",
+    "Genre": "DJ DEPAN",
+    "ImageId": "rbxassetid://83025559864449",
+    "SoundId": "rbxassetid://119924893467551",
+    "Speed": 0.43
+},
+{
+    "Title": "DJ Pandangan Pertama (2026) - Official Music Video",
+    "Artist": "DJ DEPAN",
+    "Genre": "DJ DEPAN",
+    "ImageId": "rbxassetid://83025559864449",
+    "SoundId": "rbxassetid://128688735854747",
+    "Speed": 0.43
+},
     ]
 }
