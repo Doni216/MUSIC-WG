@@ -1,885 +1,3220 @@
 {
     "Songs": [
         {
-            "Title": "Beggin",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://100063518596134",
-            "Speed": 0.5
+            "Title": "FADED",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://97758484089643",
+            "Speed": 0.43
         },
         {
-            "Title": "Gasolina",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://130292253899786",
-            "Speed": 0.5
+            "Title": "THE SPECTRE",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106407866523015",
+            "Speed": 0.43
         },
         {
-            "Title": "Baby dont go",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://84163182083337",
-            "Speed": 0.5
+            "Title": "LEVELS",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106703981795373",
+            "Speed": 0.43
         },
         {
-            "Title": "Always lovin you",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://114970038167912",
-            "Speed": 0.5
+            "Title": "THE NIGHT",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://86283687772481",
+            "Speed": 0.43
         },
         {
-            "Title": "Viva la vida",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://110769701555942",
-            "Speed": 0.5
+            "Title": "WAITING FOR LOVE",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://99859486523891",
+            "Speed": 0.43
         },
         {
-            "Title": "Payphone",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://79054340873591",
-            "Speed": 0.5
+            "Title": "WAKE ME UP",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://114572537719030",
+            "Speed": 0.43
         },
         {
-            "Title": "Mockingbird",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://89939772425287",
-            "Speed": 0.5
+            "Title": "ANGEL NUMBER",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://128719929905780",
+            "Speed": 0.43
         },
         {
-            "Title": "Eenie meenie",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://111868148948219",
-            "Speed": 0.5
+            "Title": "I AM A GOOD",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://127251459621790",
+            "Speed": 0.43
         },
         {
-            "Title": "That should be me",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://89087564952872",
-            "Speed": 0.5
+            "Title": "TITANIUM",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://76424316088510",
+            "Speed": 0.43
         },
         {
-            "Title": "Beauty and beast",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://120613997835018",
-            "Speed": 0.5
+            "Title": "ANIMALS",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://121296541895991",
+            "Speed": 0.43
         },
         {
-            "Title": "Danza kuduro",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://109776170440279",
-            "Speed": 0.5
+            "Title": "DON'T YOU WORRY CHILD",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://76509211405020",
+            "Speed": 0.43
         },
         {
-            "Title": "On the floor x Stereo love",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://96086318564957",
-            "Speed": 0.5
+            "Title": "CLARITY",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://115480798802384",
+            "Speed": 0.43
         },
         {
-            "Title": "Tokyo drift",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://121129407018305",
-            "Speed": 0.5
+            "Title": "Lost Control",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78467101269057",
+            "Speed": 0.43
         },
         {
-            "Title": "Concrete angel",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://128251871424729",
-            "Speed": 0.5
+            "Title": "On My Way",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://129378818089664",
+            "Speed": 0.43
         },
         {
-            "Title": "Chandelier x Impossible x Wildflower",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://140395430279306",
-            "Speed": 0.5
+            "Title": "Who I Am",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://88807074226597",
+            "Speed": 0.43
         },
         {
-            "Title": "Risk it all",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://83717150690041",
-            "Speed": 0.5
+            "Title": "Monster",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://104625449967388",
+            "Speed": 0.43
         },
         {
-            "Title": "Where we are x Multo",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://105146135633864",
-            "Speed": 0.5
+            "Title": "Better Off (Alone, Pt. III)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://105323744127443",
+            "Speed": 0.43
         },
         {
-            "Title": "Shape of my heart",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://137021140432575",
-            "Speed": 0.5
+            "Title": "The Drum",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125494740406795",
+            "Speed": 0.43
         },
         {
-            "Title": "Rewrite the star",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://95501577752906",
-            "Speed": 0.5
+            "Title": "Mi Chico (Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://75308287790283",
+            "Speed": 0.43
         },
         {
-            "Title": "In another life",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://87109599576733",
-            "Speed": 0.5
+            "Title": "Turn It Up",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://140328962838884",
+            "Speed": 0.43
         },
         {
-            "Title": "Bang bang bang",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://99247773526851",
-            "Speed": 0.5
+            "Title": "Summer Jammed",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://115595057811518",
+            "Speed": 0.43
         },
         {
-            "Title": "good boy x fantastic baby - gd",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://98378748651506",
-            "Speed": 0.5
+            "Title": "Booty Music (EDM Mix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://111853617356278",
+            "Speed": 0.43
         },
         {
-            "Title": "Golden",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://130016477229165",
-            "Speed": 0.5
+            "Title": "Rollin x Rollin x Rollin (Masked Wolf Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://139371161555637",
+            "Speed": 0.43
         },
         {
-            "Title": "Talking to the moon",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://106476397277845",
-            "Speed": 0.5
+            "Title": "I wanna make love to you (Denkaa Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://87051960787982",
+            "Speed": 0.43
         },
         {
-            "Title": "KAMNH",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://87198156468595",
-            "Speed": 0.5
+            "Title": "G O F L E X 2 (Crose987 Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://136281908005137",
+            "Speed": 0.43
         },
         {
-            "Title": "One call away",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://76903576538131",
-            "Speed": 0.5
+            "Title": "Back To Me (Ben Hazan Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://127358995515407",
+            "Speed": 0.43
         },
         {
-            "Title": "Lily",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://103212453002217",
-            "Speed": 0.5
+            "Title": "Love & War (G-Funk Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94012961279587",
+            "Speed": 0.43
         },
         {
-            "Title": "Cartel",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://116934501690782",
-            "Speed": 0.5
+            "Title": "Peaches x Whats Luv (Justin Bieber Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://124524121291181",
+            "Speed": 0.43
         },
         {
-            "Title": "Photograph",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://121837889163585",
-            "Speed": 0.5
+            "Title": "Obsessed (Mariah Carey x Mario Winans Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://110463263998882",
+            "Speed": 0.43
         },
         {
-            "Title": "Fire",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://113453620223960",
-            "Speed": 0.5
+            "Title": "Vara la Mare",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://80577822307085",
+            "Speed": 0.43
         },
         {
-            "Title": "Idol",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://123115468313409",
-            "Speed": 0.5
+            "Title": "Bad (Buskilaz Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://134621002538896",
+            "Speed": 0.43
         },
         {
-            "Title": "Waka waka",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://91366224564516",
-            "Speed": 0.5
+            "Title": "Big Club",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://127564824262788",
+            "Speed": 0.43
         },
         {
-            "Title": "Apologize",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://126654579531742",
-            "Speed": 0.5
+            "Title": "It's Goin Down (Yung Joc x Jeremih Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://103525350640032",
+            "Speed": 0.43
         },
         {
-            "Title": "Young dumb and broke",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://129052713282649",
-            "Speed": 0.5
+            "Title": "Mi Chico (Remix) [Mashup Video]",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125989887065982",
+            "Speed": 0.43
         },
         {
-            "Title": "Lotus of life",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://105089749135965",
-            "Speed": 0.666
+            "Title": "Can You Feel It [EMZA RMX]",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://90031846312621",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Mi Chico (Remix) [Mashup Video]",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78883970847563",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Dance Mix Vol. 15 (Back to the Old School 2)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://136437949630306",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bun Up The Dance",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://130233736784731",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Baby (Amapiano Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://133135446490810",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Best Gym Music Mix - Part 1",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://132388427124019",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Best Gym Music Mix - Part 2",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://116242848011022",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Best Gym Music Mix - Part 4",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://128034039870090",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Take Me Away (Visualizer)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://128136856652341",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Silhouette (Weird Genius Remix/Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://101151038457903",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Beautiful Things (DJ Desa Remix & Madara Dusal)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://128224187669907",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DAYBREAK (Emotional EDM Original)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113645086109164",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Stay With Me (Japanese EDM Remix by Lunak)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://139917833394501",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Turn The Lights Off / Levels / Calling (Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://105503933601220",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Skyfall (Benzoo Remix, Psytrance)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://132814290367439",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Dragostea Din Tei (Zyne Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://91628993583203",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Where Have You Been (Afro House Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106939766797269",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Lambada (Afro House Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://72307057429731",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Too Sweet ft. The Macarons Project",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://131347888832103",
+            "Speed": 0.43
+        },
+        {
+            "Title": "The Fate of Ophelia (Afro House Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://101760381500225",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bella Ciao",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://98169060762972",
+            "Speed": 0.43
+        },
+        {
+            "Title": "On and On (Deep House Car Chill Mix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://130152760710681",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Waiting For Love",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://112341346421339",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Freaked Out",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106806709381307",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Con Calma & Swalla (Yukan Omura Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://120698083629045",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Power Of Love (CYRIL TikTok Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://86683928857688",
+            "Speed": 0.43
+        },
+        {
+            "Title": "It's A Heartache (CYRIL Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://91341635677297",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Easy On Me (CYRIL House Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125009288039422",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bella Ciao (Cyril M Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://130569793739335",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Wagon Wheel (CYRIL Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94160051481423",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Stumblin' In",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://130307050322555",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SHEESH (Weird Genius Remix/Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://72453129468317",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Boom, Boom, Boom, Boom!! (Actraiser Hardstyle Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://110009963730674",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pedro (W&W Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://121856472873527",
+            "Speed": 0.43
+        },
+        {
+            "Title": "APT (Whisnu Santika & Rey Putra Edit)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://75294796915803",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Movin' To The Sun (Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://131640108168805",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Voices In My Head x Freaks x Love Parade (Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://136185587022309",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Memories X Runaway (Nerco Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://140581791691524",
+            "Speed": 0.43
+        },
+        {
+            "Title": "I'm an Albatraoz",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://111699854729478",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Love Tonight x Give Me Everything x Aria (Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78646171579793",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Freaks vs I Could Be The One vs Booyah (DJ Mashup)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://139430366332893",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Titanium (Future Rave Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://110348604523217",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Right Round Calabria",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://100329603449009",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Sexual Tension (EDM, Late Nights 2026)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106995815242947",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pompeii (MDB Bootleg Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://71935697452201",
+            "Speed": 0.43
+        },
+        {
+            "Title": "True",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94551058342562",
+            "Speed": 0.43
+        },
+        {
+            "Title": "We Don't Need",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://129259232391367",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Put Your Records On",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://72354670719508",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pretty Little Baby (DJ Dark Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://105186172637768",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Thank You (Not So Bad) (Don Paolo Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://122192641554794",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Too Sweet (The Stickmen Project Drinkin Edit)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://98225090686970",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Otherside (A Liga, Kellow & Gobbi Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94488348423026",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Low (FNZ Remix) ft. T-Pain",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125030679040911",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Freaks (The Stickmen Project Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94091924016431",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Around The World (La La La La La) (The Stickmen Project Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://89782336991319",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Heaven (The Stickmen Project Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://140159617150977",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Faded (The Stickmen Project Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://103019365882204",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Stand By Me (Techno Remix by Different Ears)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://101168702246610",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Without Me (D'Amico & Valax Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://127819485892940",
+            "Speed": 0.43
+        },
+        {
+            "Title": "The Final Countdown 2025 (Visualizer)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://72825198149590",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Head & Heart Vs Better Off Alone (DJs From Mars Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://120289378665146",
+            "Speed": 0.43
+        },
+        {
+            "Title": "If I Lose Myself Vs Ordinary (DJs From Mars Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://140154307702530",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Believe (Teddy Cream Bootleg)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://129737952817019",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Beauty And A Beat",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://109895022048302",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Eenie Meenie (Zyne Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://131611356670013",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Peanut Butter Jelly",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://136889025409227",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Sweet Caroline (CYRIL Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://91528142754440",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Never Going Home Tonight ft. Madison Love",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://81030231442998",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FourFiveSeconds (CYRIL Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://134360347083967",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Don't You Worry (David Guetta & DJs From Mars Remix)",
+            "Artist": "DJ Devour",
+            "Genre": "EDM",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://99719859490411",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BYE BYE",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://138988784670980",
+            "SoundId": "rbxassetid://138988784670980",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BAD GUY",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://114464029192653",
+            "SoundId": "rbxassetid://114464029192653",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BIRDS OF A FEATHER",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://83573895655056",
+            "SoundId": "rbxassetid://83573895655056",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CHIHIRO",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71648499778320",
+            "SoundId": "rbxassetid://71648499778320",
+            "Speed": 0.43
+        },
+        {
+            "Title": "HAPPIER THAN EVER",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133849032298758",
+            "SoundId": "rbxassetid://133849032298758",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LOVELY",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://108253354754251",
+            "SoundId": "rbxassetid://108253354754251",
+            "Speed": 0.43
+        },
+        {
+            "Title": "OCEAN EYES",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://129274895265177",
+            "SoundId": "rbxassetid://129274895265177",
+            "Speed": 0.43
+        },
+        {
+            "Title": "WATCH",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://88180085054439",
+            "SoundId": "rbxassetid://88180085054439",
+            "Speed": 0.43
+        },
+        {
+            "Title": "WHAT WAS I MADE FOR?",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://128089513057148",
+            "SoundId": "rbxassetid://128089513057148",
+            "Speed": 0.43
+        },
+        {
+            "Title": "WHEN THE PARTY'S OVER",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://110365191026760",
+            "SoundId": "rbxassetid://110365191026760",
+            "Speed": 0.43
+        },
+        {
+            "Title": "WILD FLOWER",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139301530576908",
+            "SoundId": "rbxassetid://139301530576908",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CALMA",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://72751634450395",
+            "SoundId": "rbxassetid://72751634450395",
+            "Speed": 0.43
+        },
+        {
+            "Title": "HIM",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://92625090021303",
+            "SoundId": "rbxassetid://92625090021303",
+            "Speed": 0.43
+        },
+        {
+            "Title": "AS LONG AS YOU LOVE ME",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://107612057101246",
+            "SoundId": "rbxassetid://107612057101246",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BABY",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://112820464198344",
+            "SoundId": "rbxassetid://112820464198344",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BEAUTY AND A BEAT",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://83078976812909",
+            "SoundId": "rbxassetid://83078976812909",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CONFIDENT",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://128446193905164",
+            "SoundId": "rbxassetid://128446193905164",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DESPACITO",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://109894984327371",
+            "SoundId": "rbxassetid://109894984327371",
+            "Speed": 0.43
+        },
+        {
+            "Title": "EENIE MEENIE",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://104634177301582",
+            "SoundId": "rbxassetid://104634177301582",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FAVORITE GIRL",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://112046138205070",
+            "SoundId": "rbxassetid://112046138205070",
+            "Speed": 0.43
+        },
+        {
+            "Title": "GHOST",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://125475073223616",
+            "SoundId": "rbxassetid://125475073223616",
+            "Speed": 0.43
+        },
+        {
+            "Title": "HEY GIRL",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://114767938322163",
+            "SoundId": "rbxassetid://114767938322163",
+            "Speed": 0.43
+        },
+        {
+            "Title": "INTENTIONS",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://104700798337655",
+            "SoundId": "rbxassetid://104700798337655",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LOVE ME",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://131470811912365",
+            "SoundId": "rbxassetid://131470811912365",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LOVE YOURSELF",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://128747301321376",
+            "SoundId": "rbxassetid://128747301321376",
+            "Speed": 0.43
+        },
+        {
+            "Title": "NEVER SAY NEVER",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://134933765434582",
+            "SoundId": "rbxassetid://134933765434582",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ONE LESS LONELY GIRL",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://122850433543097",
+            "SoundId": "rbxassetid://122850433543097",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ONE TIME",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://137563022661629",
+            "SoundId": "rbxassetid://137563022661629",
+            "Speed": 0.43
+        },
+        {
+            "Title": "PEACHES",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://116324117302846",
+            "SoundId": "rbxassetid://116324117302846",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SORRY",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://107292489540444",
+            "SoundId": "rbxassetid://107292489540444",
+            "Speed": 0.43
+        },
+        {
+            "Title": "STAY",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://100712197359259",
+            "SoundId": "rbxassetid://100712197359259",
+            "Speed": 0.43
+        },
+        {
+            "Title": "STUCK WITH U",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://83378296664149",
+            "SoundId": "rbxassetid://83378296664149",
+            "Speed": 0.43
+        },
+        {
+            "Title": "THAT SHOULD BE ME",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://82377096052251",
+            "SoundId": "rbxassetid://82377096052251",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Gabriela",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://138959840486088",
+            "SoundId": "rbxassetid://138959840486088",
+            "Speed": 0.43
+        },
+        {
+            "Title": "as long as you love me",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://73680522923637",
+            "SoundId": "rbxassetid://73680522923637",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bones",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://140478871633705",
+            "SoundId": "rbxassetid://140478871633705",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Constellations",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://94341429529877",
+            "SoundId": "rbxassetid://94341429529877",
+            "Speed": 0.43
+        },
+        {
+            "Title": "dependent",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://123199635569427",
+            "SoundId": "rbxassetid://123199635569427",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Forever With You",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://135831896604491",
+            "SoundId": "rbxassetid://135831896604491",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Forgot About Us",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://102915686373677",
+            "SoundId": "rbxassetid://102915686373677",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Memories",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://138826277634818",
+            "SoundId": "rbxassetid://138826277634818",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Never Let You Go",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://103134469012332",
+            "SoundId": "rbxassetid://103134469012332",
+            "Speed": 0.43
+        },
+        {
+            "Title": "overthinking about you",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://128325400152115",
+            "SoundId": "rbxassetid://128325400152115",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Rest of My Life",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71986551708958",
+            "SoundId": "rbxassetid://71986551708958",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Scars",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://90516784413355",
+            "SoundId": "rbxassetid://90516784413355",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Temporary Love",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://92293736307275",
+            "SoundId": "rbxassetid://92293736307275",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Unlearn You",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://104620404231826",
+            "SoundId": "rbxassetid://104620404231826",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Unlearn You (MV)",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://127714653801767",
+            "SoundId": "rbxassetid://127714653801767",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Where You Are",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://94962105807876",
+            "SoundId": "rbxassetid://94962105807876",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Art Deco",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://81044163345031",
+            "SoundId": "rbxassetid://81044163345031",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Blue Jeans",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139467788355532",
+            "SoundId": "rbxassetid://139467788355532",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Born To Die",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://134115092661794",
+            "SoundId": "rbxassetid://134115092661794",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Brooklyn Baby",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://108669359878072",
+            "SoundId": "rbxassetid://108669359878072",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Chemtrails Over The Country Club",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://114917416398990",
+            "SoundId": "rbxassetid://114917416398990",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Cinnamon Girl",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139352406755559",
+            "SoundId": "rbxassetid://139352406755559",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Diet Mountain Dew",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133133281950514",
+            "SoundId": "rbxassetid://133133281950514",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Doin' Time",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://87822582719389",
+            "SoundId": "rbxassetid://87822582719389",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Love",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://83854404007650",
+            "SoundId": "rbxassetid://83854404007650",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Lust For Life ft. The Weeknd",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://95281912548573",
+            "SoundId": "rbxassetid://95281912548573",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Music To Watch Boys To",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://103288958347370",
+            "SoundId": "rbxassetid://103288958347370",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Pretty When You Cry",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://96240645219026",
+            "SoundId": "rbxassetid://96240645219026",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Salvatore",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://106953228545917",
+            "SoundId": "rbxassetid://106953228545917",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Summertime Sadness",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139763795636924",
+            "SoundId": "rbxassetid://139763795636924",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Video Games",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://127017004282361",
+            "SoundId": "rbxassetid://127017004282361",
+            "Speed": 0.43
+        },
+        {
+            "Title": "West Coast",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://100760405030079",
+            "SoundId": "rbxassetid://100760405030079",
+            "Speed": 0.43
+        },
+        {
+            "Title": "White Mustang",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://87973774710999",
+            "SoundId": "rbxassetid://87973774710999",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Young and Beautiful",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://108172662554023",
+            "SoundId": "rbxassetid://108172662554023",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Young and Beautiful (Gatsby OST)",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://100634534327881",
+            "SoundId": "rbxassetid://100634534327881",
+            "Speed": 0.43
+        },
+        {
+            "Title": "'Cause You Have To",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://130605413744704",
+            "SoundId": "rbxassetid://130605413744704",
+            "Speed": 0.43
+        },
+        {
+            "Title": "anything 4 u",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133406360107247",
+            "SoundId": "rbxassetid://133406360107247",
+            "Speed": 0.43
+        },
+        {
+            "Title": "dna",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://131713227281917",
+            "SoundId": "rbxassetid://131713227281917",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Good Parts",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://132567589085330",
+            "SoundId": "rbxassetid://132567589085330",
+            "Speed": 0.43
+        },
+        {
+            "Title": "if this is the last time",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://123707988680599",
+            "SoundId": "rbxassetid://123707988680599",
+            "Speed": 0.43
         },
         {
             "Title": "ILYSB",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://122779061774606",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Sweet but psycho",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://112469272229371",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Closer",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://133793183572120",
-            "Speed": 0.5
-        },
-        {
-            "Title": "I dont want miss a thing",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://131983203163427",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Dirimu yang dulu",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://90569237782223",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Andai aku bisa",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://83203843167787",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Duka x serana",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://110712364320566",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Mangu",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://105001796635778",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Surat cinta untuk starla",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://101850993741730",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Sialan",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://77550490521721",
-            "Speed": 0.5
-        },
-        {
-            "Title": "To the bone",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://114263831921939",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Akhirnya ku menemukanmu",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://129904535266719",
-            "Speed": 0.5
-        },
-        {
-            "Title": "DJ geboy",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://74673187152174",
-            "Speed": 0.5
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://114294877984805",
+            "SoundId": "rbxassetid://114294877984805",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Malibu Nights",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://88340352086388",
+            "SoundId": "rbxassetid://88340352086388",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Soft",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://97007658119347",
+            "SoundId": "rbxassetid://97007658119347",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Stuck",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://99173324332550",
+            "SoundId": "rbxassetid://99173324332550",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Thru These Tears",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://98473826286360",
+            "SoundId": "rbxassetid://98473826286360",
+            "Speed": 0.43
+        },
+        {
+            "Title": "When Did You Stop Loving Me?",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71624799147611",
+            "SoundId": "rbxassetid://71624799147611",
+            "Speed": 0.43
+        },
+        {
+            "Title": "XXL",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://84700334480658",
+            "SoundId": "rbxassetid://84700334480658",
+            "Speed": 0.43
+        },
+        {
+            "Title": "you!",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://83376556022983",
+            "SoundId": "rbxassetid://83376556022983",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Mean It",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133163339294830",
+            "SoundId": "rbxassetid://133163339294830",
+            "Speed": 0.43
+        },
+        {
+            "Title": "1 step forward, 3 steps back",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://118509040069484",
+            "SoundId": "rbxassetid://118509040069484",
+            "Speed": 0.43
+        },
+        {
+            "Title": "bad idea right?",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133360298586311",
+            "SoundId": "rbxassetid://133360298586311",
+            "Speed": 0.43
+        },
+        {
+            "Title": "brutal",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://100605139175028",
+            "SoundId": "rbxassetid://100605139175028",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Can't Catch Me Now",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://101082210948039",
+            "SoundId": "rbxassetid://101082210948039",
+            "Speed": 0.43
         },
         {
-            "Title": "Hotel room",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://102872616594323",
-            "Speed": 0.5
+            "Title": "deja vu",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://118286034772950",
+            "SoundId": "rbxassetid://118286034772950",
+            "Speed": 0.43
         },
         {
-            "Title": "You will be in my heart",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://88129384699852",
-            "Speed": 0.5
+            "Title": "drivers license",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71254321406077",
+            "SoundId": "rbxassetid://71254321406077",
+            "Speed": 0.43
         },
         {
-            "Title": "Animals",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://109780616390420",
-            "Speed": 0.5
+            "Title": "drop dead",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://127956743051722",
+            "SoundId": "rbxassetid://127956743051722",
+            "Speed": 0.43
         },
         {
-            "Title": "Love story",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://103419168623124",
-            "Speed": 0.5
+            "Title": "enough for you",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://123926577492280",
+            "SoundId": "rbxassetid://123926577492280",
+            "Speed": 0.43
         },
         {
-            "Title": "We found love",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://105924708289341",
-            "Speed": 0.5
+            "Title": "get him back!",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://140563883675775",
+            "SoundId": "rbxassetid://140563883675775",
+            "Speed": 0.43
         },
         {
-            "Title": "Mean it",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://126713358055618",
-            "Speed": 0.5
+            "Title": "good 4 u",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://93557022898278",
+            "SoundId": "rbxassetid://93557022898278",
+            "Speed": 0.43
         },
         {
-            "Title": "Im good blue",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://130681536463911",
-            "Speed": 0.5
+            "Title": "hope ur ok",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://107408307511875",
+            "SoundId": "rbxassetid://107408307511875",
+            "Speed": 0.43
         },
         {
-            "Title": "You dont even know me bkb",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://125496567601133",
-            "Speed": 0.5
+            "Title": "jealousy, jealousy",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139155912723559",
+            "SoundId": "rbxassetid://139155912723559",
+            "Speed": 0.43
         },
         {
-            "Title": "There for you",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://81050479847682",
-            "Speed": 0.5
+            "Title": "lacy",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://84400084641497",
+            "SoundId": "rbxassetid://84400084641497",
+            "Speed": 0.43
         },
         {
-            "Title": "Malibu night",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://122804070113872",
-            "Speed": 0.5
+            "Title": "obsessed",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://113535508283793",
+            "SoundId": "rbxassetid://113535508283793",
+            "Speed": 0.43
         },
         {
-            "Title": "Next to you",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://89148886786188",
-            "Speed": 0.5
+            "Title": "the cure",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139724340175946",
+            "SoundId": "rbxassetid://139724340175946",
+            "Speed": 0.43
         },
         {
-            "Title": "I miss you",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://135137143025533",
-            "Speed": 0.5
+            "Title": "the grudge",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://139544209721077",
+            "SoundId": "rbxassetid://139544209721077",
+            "Speed": 0.43
         },
         {
-            "Title": "cold water",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://112728844292637",
-            "Speed": 0.5
+            "Title": "traitor",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://134066915092945",
+            "SoundId": "rbxassetid://134066915092945",
+            "Speed": 0.43
         },
         {
-            "Title": "Clarity",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://96961600951055",
-            "Speed": 0.5
+            "Title": "Better Man",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://127542620655889",
+            "SoundId": "rbxassetid://127542620655889",
+            "Speed": 0.43
         },
         {
-            "Title": "Mine",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://92846468938991",
-            "Speed": 0.5
+            "Title": "Evergreen",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://110905432883835",
+            "SoundId": "rbxassetid://110905432883835",
+            "Speed": 0.43
         },
         {
-            "Title": "FYA",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://117517041464731",
-            "Speed": 0.5
+            "Title": "Flying Without Wings",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://107415945742766",
+            "SoundId": "rbxassetid://107415945742766",
+            "Speed": 0.43
         },
         {
-            "Title": "23",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://135101702517157",
-            "Speed": 0.5
+            "Title": "Fool Again",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://103866687250459",
+            "SoundId": "rbxassetid://103866687250459",
+            "Speed": 0.43
         },
         {
-            "Title": "You and me forever",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://71702090711743",
-            "Speed": 0.5
+            "Title": "Home",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://79811391436753",
+            "SoundId": "rbxassetid://79811391436753",
+            "Speed": 0.43
         },
         {
-            "Title": "Baepsae",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://118830104753299",
-            "Speed": 0.5
+            "Title": "I Have a Dream",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://109414706688069",
+            "SoundId": "rbxassetid://109414706688069",
+            "Speed": 0.43
         },
         {
-            "Title": "No more dreams",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://107705609704582",
-            "Speed": 0.5
+            "Title": "I Lay My Love on You",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://140180860171466",
+            "SoundId": "rbxassetid://140180860171466",
+            "Speed": 0.43
         },
         {
-            "Title": "Becak never dies",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://88228655817535",
-            "Speed": 0.5
+            "Title": "If I Let You Go",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://126447855722310",
+            "SoundId": "rbxassetid://126447855722310",
+            "Speed": 0.43
         },
         {
-            "Title": "Sorry",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://105845505799320",
-            "Speed": 0.5
+            "Title": "My Love",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71745404153383",
+            "SoundId": "rbxassetid://71745404153383",
+            "Speed": 0.43
         },
         {
-            "Title": "Hands",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://73046460643102",
-            "Speed": 0.5
+            "Title": "Nothing's Gonna Change My Love For You",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://109355521864973",
+            "SoundId": "rbxassetid://109355521864973",
+            "Speed": 0.43
         },
         {
-            "Title": "Kesakitanku",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://80748061004036",
-            "Speed": 0.5
+            "Title": "Obvious",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://125065267633025",
+            "SoundId": "rbxassetid://125065267633025",
+            "Speed": 0.43
         },
         {
-            "Title": "One less lonely girl",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://133522864284015",
-            "Speed": 0.5
+            "Title": "Puzzle of My Heart",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://136501476116811",
+            "SoundId": "rbxassetid://136501476116811",
+            "Speed": 0.43
         },
         {
-            "Title": "Company",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://89372718260805",
-            "Speed": 0.5
+            "Title": "Queen Of My Heart",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://96005884870999",
+            "SoundId": "rbxassetid://96005884870999",
+            "Speed": 0.43
         },
         {
-            "Title": "Weird genius - your side",
-            "Artist": "Weird Genius",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://129950081661905",
-            "Speed": 0.4
+            "Title": "Seasons In The Sun",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://92576294916296",
+            "SoundId": "rbxassetid://92576294916296",
+            "Speed": 0.43
         },
         {
-            "Title": "Queen - we will rock you",
-            "Artist": "Queen",
-            "Genre": "Rock",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://114971838820903",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Linkin park - numb",
-            "Artist": "Linkin Park",
-            "Genre": "Rock",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://98410196841100",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Linkin park - in the end",
-            "Artist": "Linkin Park",
-            "Genre": "Rock",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://93671112751050",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Bon Jovi - its my life",
-            "Artist": "Bon Jovi",
-            "Genre": "Rock",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://92062073010897",
-            "Speed": 0.4
-        },
-        {
-            "Title": "The weeknd - Creepin",
-            "Artist": "The Weeknd",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://89976440538222",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Bishop Briggs - River",
-            "Artist": "Bishop Briggs",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://77008884921577",
-            "Speed": 0.4
-        },
-        {
-            "Title": "The cranberries - Zombie",
-            "Artist": "The Cranberries",
-            "Genre": "Rock",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://134038665951536",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Usher - yeah",
-            "Artist": "Usher",
-            "Genre": "R&B",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://127086630225768",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Knaan - wavin flag",
-            "Artist": "K'naan",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://87821209834583",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Shakira - Dai dai",
-            "Artist": "Shakira",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://103928964635066",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Nsync - Bye bye bye",
-            "Artist": "NSYNC",
-            "Genre": "Pop",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://71151924444935",
-            "Speed": 0.4
-        },
-        {
-            "Title": "BTS - Dreamer",
-            "Artist": "BTS",
-            "Genre": "K-Pop",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://76514105677065",
-            "Speed": 0.4
-        },
-        {
-            "Title": "Wisnusantika - Yalla habibi",
-            "Artist": "Wisnusantika",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://120976220202390",
-            "Speed": 0.4
-        },
-         {
-            "Title": "Legendaris x toma",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://83855295178280",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Takutu breakbeat",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://72114272591684",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Russian roulette bkb",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://74689083415295",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Aria freaks bkb",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://88553604589383",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Atlantis x an angels love",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://124995865347110",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Jika itu yang terbaik bkb",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://80480944882932",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Jangan paksa rindu bkb",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://110410774864525",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Lie",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://77270886742828",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Shadow",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://107579286021880",
-            "Speed": 1
-        },
-        {
-            "Title": "Macarena",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://130862178226941",
-            "Speed": 1
-        },
-        {
-            "Title": "Baby dont go",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://128102058818806",
-            "Speed": 1
-        },
-        {
-            "Title": "Assasin x terompet",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://97719760895007",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Titanium",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://104981585858928",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Shelter",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://138238007299041",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Waiting",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://78582154113980",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Blackhole",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://88199710808897",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Lose without you",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://94802346677888",
-            "Speed": 0.5
-        },
-        {
-            "Title": "I like it like x nanana",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://91420235517882",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Sahara drift",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://138429186845610",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Barbie girl x quepasa",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://75359203283389",
-            "Speed": 0.5
-        },
-        {
-            "Title": "BKB Crazy frog",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://95069681465422",
-            "Speed": 1
-        },
-        {
-            "Title": "Smoke Mood",
-            "Artist": "Unknown",
-            "Genre": "Unknown",
-            "ImageId": "rbxassetid://99288380592803",
-            "SoundId": "rbxassetid://79601231617745",
+            "Title": "Soledad",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://90909187498189",
+            "SoundId": "rbxassetid://90909187498189",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Something Right",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://129394906041308",
+            "SoundId": "rbxassetid://129394906041308",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Swear It Again",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://71635680439407",
+            "SoundId": "rbxassetid://71635680439407",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Tonight",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://97700103917064",
+            "SoundId": "rbxassetid://97700103917064",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Unbreakable",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://87686484682780",
+            "SoundId": "rbxassetid://87686484682780",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Uptown Girl",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://111949966512078",
+            "SoundId": "rbxassetid://111949966512078",
+            "Speed": 0.43
+        },
+        {
+            "Title": "What About Now",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://133045984398071",
+            "SoundId": "rbxassetid://133045984398071",
+            "Speed": 0.43
+        },
+        {
+            "Title": "What Makes A Man",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://92613560274367",
+            "SoundId": "rbxassetid://92613560274367",
+            "Speed": 0.43
+        },
+        {
+            "Title": "When You Tell Me That You Love Me",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://97561200366966",
+            "SoundId": "rbxassetid://97561200366966",
+            "Speed": 0.43
+        },
+        {
+            "Title": "When You're Looking Like That",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://82685339099194",
+            "SoundId": "rbxassetid://82685339099194",
+            "Speed": 0.43
+        },
+        {
+            "Title": "You Raise Me Up",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://80326073759597",
+            "SoundId": "rbxassetid://80326073759597",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Your Love Amazes Me",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://74821495514400",
+            "SoundId": "rbxassetid://74821495514400",
+            "Speed": 0.43
+        },
+        {
+            "Title": "The Lazy Song",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://94457627644744",
+            "SoundId": "rbxassetid://94457627644744",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Risk It All",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://112316175695884",
+            "SoundId": "rbxassetid://112316175695884",
+            "Speed": 0.43
+        },
+        {
+            "Title": "It Will Rain",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://113246172679469",
+            "SoundId": "rbxassetid://113246172679469",
+            "Speed": 0.43
+        },
+        {
+            "Title": "When I Was Your Man",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://140314990548002",
+            "SoundId": "rbxassetid://140314990548002",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Die With A Smile",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://123187743103059",
+            "SoundId": "rbxassetid://123187743103059",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Locked Out Of Heaven",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://77975892199675",
+            "SoundId": "rbxassetid://77975892199675",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Just The Way You Are",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://81760874576905",
+            "SoundId": "rbxassetid://81760874576905",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Grenade",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://91885387502332",
+            "SoundId": "rbxassetid://91885387502332",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Talking To The Moon",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://111672214578364",
+            "SoundId": "rbxassetid://111672214578364",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Count on Me",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://72886415222626",
+            "SoundId": "rbxassetid://72886415222626",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://107224845803570",
+            "SoundId": "rbxassetid://107224845803570",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://119372419419370",
+            "SoundId": "rbxassetid://119372419419370",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ MIX",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://113791317288313",
+            "SoundId": "rbxassetid://113791317288313",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://89368687609360",
+            "SoundId": "rbxassetid://89368687609360",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ JEDAG JEDUG",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://120960061544650",
+            "SoundId": "rbxassetid://120960061544650",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran Jedag Jedug 2026",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://74929576078766",
+            "SoundId": "rbxassetid://74929576078766",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran Jedag Jedug 2026",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://77098432158923",
+            "SoundId": "rbxassetid://77098432158923",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Drop Enakeun V9 x Menunggu x Rutinitas Randong",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://127690969634328",
+            "SoundId": "rbxassetid://127690969634328",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://114059361263608",
+            "SoundId": "rbxassetid://114059361263608",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://75716002775520",
+            "SoundId": "rbxassetid://75716002775520",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://134149398705310",
+            "SoundId": "rbxassetid://134149398705310",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://88396577027247",
+            "SoundId": "rbxassetid://88396577027247",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://113168353767686",
+            "SoundId": "rbxassetid://113168353767686",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://103904659060566",
+            "SoundId": "rbxassetid://103904659060566",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://118990375122803",
+            "SoundId": "rbxassetid://118990375122803",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://107224845803570",
+            "SoundId": "rbxassetid://107224845803570",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://119372419419370",
+            "SoundId": "rbxassetid://119372419419370",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://113791317288313",
+            "SoundId": "rbxassetid://113791317288313",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Campuran",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://89368687609360",
+            "SoundId": "rbxassetid://89368687609360",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://120960061544650",
+            "SoundId": "rbxassetid://120960061544650",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://74929576078766",
+            "SoundId": "rbxassetid://74929576078766",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ Mix",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://77098432158923",
+            "SoundId": "rbxassetid://77098432158923",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Drop Enakeun V9 x Menunggu x Rutinitas Randong (Azil Remixer)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://127690969634328",
+            "SoundId": "rbxassetid://127690969634328",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://114059361263608",
+            "SoundId": "rbxassetid://114059361263608",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://75716002775520",
+            "SoundId": "rbxassetid://75716002775520",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://134149398705310",
+            "SoundId": "rbxassetid://134149398705310",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Indobounce Vol. 227 x Mbecak",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://88396577027247",
+            "SoundId": "rbxassetid://88396577027247",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://113168353767686",
+            "SoundId": "rbxassetid://113168353767686",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://103904659060566",
+            "SoundId": "rbxassetid://103904659060566",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Resqitalist Vol 1",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://118990375122803",
+            "SoundId": "rbxassetid://118990375122803",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Mixtape Dutch Vol 6 - MrBandar77 (Khana Sultan Official)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://127293053459900",
+            "SoundId": "rbxassetid://127293053459900",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Mixtape Dutch Vol 6 - MrBandar77 (Khana Sultan Official)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://75250835042681",
+            "SoundId": "rbxassetid://75250835042681",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Asikin Blay Mixtape - Ibot13 x Bravy x YB Sector B (Live Marathon S3, Breakbeat Gen Z)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://128389370944774",
+            "SoundId": "rbxassetid://128389370944774",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Asikin Blay Mixtape - Ibot13 x Bravy x YB Sector B (Live Marathon S3, Breakbeat Gen Z)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://122435758214963",
+            "SoundId": "rbxassetid://122435758214963",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Asikin Blay Mixtape - Ibot13 x Bravy x YB Sector B (Live Marathon S3, Breakbeat Gen Z)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://107853601512694",
+            "SoundId": "rbxassetid://107853601512694",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Life Goes On",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://91634440650034",
+            "SoundId": "rbxassetid://91634440650034",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Body to Body",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83003354108378",
+            "SoundId": "rbxassetid://83003354108378",
+            "Speed": 0.43
+        },
+        {
+            "Title": "NORMAL",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://111942431565199",
+            "SoundId": "rbxassetid://111942431565199",
+            "Speed": 0.43
+        },
+        {
+            "Title": "rollerblade",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://101857781546270",
+            "SoundId": "rbxassetid://101857781546270",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Animal",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://130875651209546",
+            "SoundId": "rbxassetid://130875651209546",
+            "Speed": 0.43
+        },
+        {
+            "Title": "they don’t know ’bout us",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://75965056620220",
+            "SoundId": "rbxassetid://75965056620220",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Run BTS",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://106266428935415",
+            "SoundId": "rbxassetid://106266428935415",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SUGAR HONEY ICE TEA",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://137539851022828",
+            "SoundId": "rbxassetid://137539851022828",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Seven (feat. Latto)",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://102373870208645",
+            "SoundId": "rbxassetid://102373870208645",
+            "Speed": 0.43
+        },
+        {
+            "Title": "XOXZ",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://132350891768319",
+            "SoundId": "rbxassetid://132350891768319",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LOVE DIVE",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://140134063487595",
+            "SoundId": "rbxassetid://140134063487595",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BLACKHOLE",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83576619706718",
+            "SoundId": "rbxassetid://83576619706718",
+            "Speed": 0.43
+        },
+        {
+            "Title": "I AM",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://133791026271330",
+            "SoundId": "rbxassetid://133791026271330",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BANG BANG",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://70903726565606",
+            "SoundId": "rbxassetid://70903726565606",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Violeta",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://107175231165563",
+            "SoundId": "rbxassetid://107175231165563",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FIESTA",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://103849480204517",
+            "SoundId": "rbxassetid://103849480204517",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Secret Story of the Swan",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://92745261691228",
+            "SoundId": "rbxassetid://92745261691228",
+            "Speed": 0.43
+        },
+        {
+            "Title": "La Vie en Rose",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://133371825879563",
+            "SoundId": "rbxassetid://133371825879563",
+            "Speed": 0.43
+        },
+        {
+            "Title": "MAGO",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://132493520980353",
+            "SoundId": "rbxassetid://132493520980353",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ROUGH",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://85026163884654",
+            "SoundId": "rbxassetid://85026163884654",
+            "Speed": 0.43
+        },
+        {
+            "Title": "우리의 다정한 계절 속에",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://128746752238614",
+            "SoundId": "rbxassetid://128746752238614",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Me gustas tu",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://96458088832369",
+            "SoundId": "rbxassetid://96458088832369",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Secret Story of the Swan",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://85467201517906",
+            "SoundId": "rbxassetid://85467201517906",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FIESTA",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://138033799276448",
+            "SoundId": "rbxassetid://138033799276448",
+            "Speed": 0.43
+        },
+        {
+            "Title": "An Angel's Love (Breakbeat Mix)",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://92889630381060",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Lie Stadium Breakbeat",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://122883680441901",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ONE DAY STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://124293509124411",
+            "Speed": 0.43
+        },
+        {
+            "Title": "RUSSIAN ROULETTE STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://82899529624670",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BE AS ONE STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://95586803082346",
+            "Speed": 0.43
+        },
+        {
+            "Title": "IF I LOSE MYSELF STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://137831633641510",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FEELS LIKE HOME STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113911273920977",
+            "Speed": 0.43
+        },
+        {
+            "Title": "THE FATE OF OPHELIA STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://107421939907178",
+            "Speed": 0.43
+        },
+        {
+            "Title": "PARTY 4 U BREAKBEAT STADIUM",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://133869100792980",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ PAYPHONE BY MANDA FVNKY STYLE LAMBADA",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://103840931991042",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bukan WG x fahmyfay x DJ Yasmin x Joana",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://97927314784109",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BLACK HOLE STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://110598287825129",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Million Stars Breakbeat",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://110470558032725",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Paradise",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://92805631618865",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CONCRETE ANGEL",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://138823923058566",
+            "Speed": 0.43
+        },
+        {
+            "Title": "AMAPIANO CHILL VIBES 2025",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://134950789989839",
+            "Speed": 0.43
+        },
+        {
+            "Title": "THE ONE THAT GO AWAY 2024",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://83741712860786",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ALWAYS REMEMBER BKB 2025",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://129312248263536",
+            "Speed": 0.43
+        },
+        {
+            "Title": "NU STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://77952453273398",
+            "Speed": 0.43
+        },
+        {
+            "Title": "We Are One Bkb",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://104140540734689",
+            "Speed": 0.43
+        },
+        {
+            "Title": "WAITING STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78489439267687",
+            "Speed": 0.43
+        },
+        {
+            "Title": "Bounce & Pa BKB",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://100064411530052",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SHELTER STADIUM BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://121996080045462",
+            "Speed": 0.43
+        },
+        {
+            "Title": "THIS LOVE DRIVES ME CRAZY BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "BKB",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://104635883304247",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ FE!N FE!N THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://77484950668713",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ PEPAS THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://95105358869989",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ BUM TAM TAM THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://109196393801946",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ THAILAND (ZOMBIE) THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://87808264174744",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ 3CHA THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://135082226289700",
+            "Speed": 0.43
+        },
+        {
+            "Title": "THAI REMIX FENGTAU SONG",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://109139686962518",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ APT APT THAILAND X DANCE FLOOR (THAILAND REMIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://119003903623403",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ THAILAND (TUTU) THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://117132811572603",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ THAILAND (SKY) SKY LIFE THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://86881491118019",
+            "Speed": 0.43
+        },
+        {
+            "Title": "TOKYO DRIFT THAI REMIX",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94069340297393",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SAYANG (THAILAND EDIT)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://122854896316915",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ ITALIANA BUSTEC THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://126875245418319",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ NO BATIDAO THAILAND STYLE X SLOW BASS",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125686568264174",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ TURN THE LIGHTS OFF THAI REMIX THAILAND STYLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://123177662999728",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ TCHU TCHA TCHA THAILAND STYLE X SLOW BASS",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://93420141230249",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ COPINES THAILAND STYLE | POTA POTA REMIX",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://85749483247828",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ DEEP LOVE X DANZA KUDURO THAILAND STYLE X SLOW BASS",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX THAI",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://128310554433811",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ AFTERBREAK STADIUM VOL 9 JAKARTA BREAKBEAT SPECIAL GEN Z 2026 FULL BASS MIXTAPE INDOBOUNCE GOLDEN",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://138974394532261",
+            "Speed": 0.43
+        },
+        {
+            "Title": "IYAIYA (VIP REMIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://86520543695275",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SÓ ACREDITO VENDO",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://76109483823740",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CHIKA (BRASILERO DUTCH)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94275341573137",
+            "Speed": 0.43
+        },
+        {
+            "Title": "QUE BRA BUM (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://112999085989983",
+            "Speed": 0.43
+        },
+        {
+            "Title": "VOVO BASS (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://116129506570278",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BOOMBASTIC",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://115863481201538",
+            "Speed": 0.43
+        },
+        {
+            "Title": "PEREOBOM - BAAS BERUTAL 2026",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://89910508161764",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DIWAGARIU (BREGA FUNK)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://77038807266614",
+            "Speed": 0.43
+        },
+        {
+            "Title": "TREME CULATA",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://139665219754719",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BAILALOSI (PERREO FUNK)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://117189603099929",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FUNKY CINTURA (AQUECIMENTO DAS POTRANCAS)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://77812670600434",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ SOU FAVELA TREND DANCE BRAZIL SLOW VIRAL TIKTOK FULL SONG",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://116055875462337",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ SOU FAVELA X FIGURINHA DANCE BRAZIL REMIX",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://90976898801447",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ ASTAGA BERCANDA X BRAZIL DANCE SLOW BASS",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://74520554494066",
+            "Speed": 0.43
+        },
+        {
+            "Title": "POJI VIDRADO (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113293956352413",
+            "Speed": 0.43
+        },
+        {
+            "Title": "AU AU AU (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://76452081289699",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BUM BUM BUM (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://93738618151530",
+            "Speed": 0.43
+        },
+        {
+            "Title": "COCOMELONES (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://76700559230949",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BREGA PARTY (BRASILERO MIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX BRAZIL",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://136039889134415",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SELAMAT ULANG TAHUN (POP PUNK ROCK COVER)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://129502785294053",
+            "Speed": 0.43
+        },
+        {
+            "Title": "HAPPY BIRTHDAY REMIX",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://114108735341431",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ GELORA ASMARA BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://95550027186539",
+            "Speed": 0.43
+        },
+        {
+            "Title": "MENDUA (BREAKBEAT KOPLO)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://99921092739861",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ PERCERAIAN LARA",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://102360627379234",
+            "Speed": 0.43
+        },
+        {
+            "Title": "MARI BERCINTA (KOPLO REMIX)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113781398431570",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ BERDUA LEBIH BAIK",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://79077008310353",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ ASTAGA BERCANDA X BRAZIL DANCE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://139895932268962",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ JOMBLO HEPPY X NENEKKU PAHLAWANKU",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78541199565989",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BABY DON'T GO",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://98233178362770",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CINTAKU (KOPLO VERSION)",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113388958688632",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ YOU DON'T EVEN KNOW ME BREAKBEAT",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://106065443505284",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ SHOW ME LOVE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://99480432292963",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ JEALOUSY",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://125873142154876",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ NUEVAYOL",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://78656421334227",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ MAMBO JAMBO",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://80779487610713",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ PEOPLE",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://127951804244628",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ KISS IT BETTER",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://74270967664146",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ BEAUTY AND BEAT",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://132947708909588",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ GGS",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://98157361743659",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DJ SIALAN",
+            "Artist": "DJ Devour",
+            "Genre": "DJ REMIX",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://137581835763564",
+            "Speed": 0.43
+        },
+        {
+            "Title": "MAISON",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://113813661344536",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BATTER UP",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://77611022514714",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SHEESH",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://89967841735727",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DRIP",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://79069786492875",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FOREVER",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://124277750978592",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CLIK CLAK",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://74491165987455",
+            "Speed": 0.43
+        },
+        {
+            "Title": "STUCK IN THE MIDDLE",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://80265456831722",
+            "Speed": 0.43
+        },
+        {
+            "Title": "DREAM",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://73407545201457",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LIKE THAT",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://112055114682375",
+            "Speed": 0.43
+        },
+        {
+            "Title": "LOVE IN MY HEART",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://134771892667801",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BILLIONAIRE",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://122957353342627",
+            "Speed": 0.43
+        },
+        {
+            "Title": "ENERGETIC",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://94471494634892",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BOOMERANG",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://88280289302217",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BEAUTIFUL",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://122327006832342",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BANG BANG BANG",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://85251632651318",
+            "Speed": 0.43
+        },
+        {
+            "Title": "FANTASTIC BABY",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://116528346582840",
+            "Speed": 0.43
+        },
+        {
+            "Title": "HARU HARU",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://80709273756459",
+            "Speed": 0.43
+        },
+        {
+            "Title": "BAD BOY",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://121058477991016",
+            "Speed": 0.43
+        },
+        {
+            "Title": "SCREAM",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://130150409615665",
+            "Speed": 0.43
+        },
+        {
+            "Title": "CHASE ME",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://100010533660545",
+            "Speed": 0.43
+        },
+        {
+            "Title": "YOU AND I",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://75866817518194",
+            "Speed": 0.43
+        },
+        {
+            "Title": "GOOD NIGHT",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://116839226886869",
             "Speed": 0.43
         }
-
     ]
 }
