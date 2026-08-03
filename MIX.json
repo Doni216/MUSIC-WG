@@ -703,6 +703,183 @@
             "ImageId": "rbxassetid://99288380592803",
             "SoundId": "rbxassetid://120976220202390",
             "Speed": 0.4
+        },
+         {
+            "Title": "Legendaris x toma",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://83855295178280",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Takutu breakbeat",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://72114272591684",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Russian roulette bkb",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://74689083415295",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Aria freaks bkb",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://88553604589383",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Atlantis x an angels love",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://124995865347110",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Jika itu yang terbaik bkb",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://80480944882932",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Jangan paksa rindu bkb",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://110410774864525",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Lie",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://77270886742828",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Shadow",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://107579286021880",
+            "Speed": 1
+        },
+        {
+            "Title": "Macarena",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://130862178226941",
+            "Speed": 1
+        },
+        {
+            "Title": "Baby dont go",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://128102058818806",
+            "Speed": 1
+        },
+        {
+            "Title": "Assasin x terompet",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://97719760895007",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Titanium",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://104981585858928",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Shelter",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://138238007299041",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Waiting",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://78582154113980",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Blackhole",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://88199710808897",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Lose without you",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://94802346677888",
+            "Speed": 0.5
+        },
+        {
+            "Title": "I like it like x nanana",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://91420235517882",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Sahara drift",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://138429186845610",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Barbie girl x quepasa",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://75359203283389",
+            "Speed": 0.5
+        },
+        {
+            "Title": "BKB Crazy frog",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://95069681465422",
+            "Speed": 1
+        },
+        {
+            "Title": "Smoke Mood",
+            "Artist": "Unknown",
+            "Genre": "Unknown",
+            "ImageId": "rbxassetid://99288380592803",
+            "SoundId": "rbxassetid://79601231617745",
+            "Speed": 0.43
         }
+
     ]
 }
