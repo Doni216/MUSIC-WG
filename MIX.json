@@ -840,6 +840,14 @@
             "SoundId": "rbxassetid://138988784670980",
             "Speed": 0.43
         },
+         {
+            "Title": "I MISS YOU",
+            "Artist": "DJ Devour",
+            "Genre": "POP",
+            "ImageId": "rbxassetid://138988784670980",
+            "SoundId": "rbxassetid://80337523411032",
+            "Speed": 0.43
+        },
         {
             "Title": "BAD GUY",
             "Artist": "DJ Devour",
@@ -3182,6 +3190,14 @@
             "Genre": "KPOP",
             "ImageId": "rbxassetid://83025559864449",
             "SoundId": "rbxassetid://121058477991016",
+            "Speed": 0.43
+        },
+                {
+            "Title": "BTS-2.0",
+            "Artist": "DJ Devour",
+            "Genre": "KPOP",
+            "ImageId": "rbxassetid://83025559864449",
+            "SoundId": "rbxassetid://95929279656387",
             "Speed": 0.43
         },
         {
